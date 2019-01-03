@@ -58,7 +58,8 @@ body {
     text-align: center;
     }
 img{
-    width: 200px;
+    width: 400px;
+    border-radius: 50%;
     }
 .ul {
     display:flex;
@@ -67,4 +68,5 @@ img{
 .img {
     display:flex;
     justify-content: space-between;
+    margin:15px;
     }
